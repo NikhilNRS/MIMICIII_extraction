@@ -67,3 +67,17 @@ datasets) on the MIMIC-III database for processing data out-of-memory. One of th
 et al., 2017).
 * A folder named "modules" containing re-usable Python modules with functionality
 used across the Jupyter notebooks.
+
+
+## Citing
+We thank Kevin Reijnders for disclosing this extraction. Please cite the use of his extraction as:
+
+
+Reijnders, K. (2020). Septic Shock Mortality Prediction Using Deep Learning and ProbabilisticFuzzy Systems. (June).
+
+
+
+
+
+
+
