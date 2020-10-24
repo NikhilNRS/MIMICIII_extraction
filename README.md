@@ -75,6 +75,8 @@ We thank Kevin Reijnders for disclosing this extraction. Please cite the use of 
 
 Reijnders, K. (2020). Septic Shock Mortality Prediction Using Deep Learning and ProbabilisticFuzzy Systems. (June).
 
+Fialho, A. S., Vieira, S. M., Kaymak, U., Almeida, R. J., Cismondi, F., Reti, S. R., . . .  Sousa,J.  M.   (2016a).   Mortality  prediction  of  septic  shock  patients  using  probabilistic  fuzzysystems.Applied Soft Computing Journal,42, 194–203.  Retrieved fromhttp://dx.doi.org/10.1016/j.asoc.2016.01.005doi:  10.1016/j.asoc.2016.01.005
+
 
 
 
